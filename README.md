@@ -1,5 +1,7 @@
 # Engine Demo
 
+![](imgs/demo_screenshot.png)
+
 ## Basic Overview
 
 This is a demo of the engine in action. It is a simple game where the player can move around and interact with the world. The player can pick up items, use items, and interact with enemies in the world.
@@ -18,6 +20,8 @@ Features of the engine that are showcased in this demo include:
 ## Controls
 
 Controls are mapped for both keyboard and future gamepad input. All menus can be navigated with the mouse as well as the keyboard.
+
+All current actions that can be done via left and right click will be shown in the bottom left of the screen. Top action is left click, bottom action is right click.
 
 The following controls are the base controls for the demo:
 
